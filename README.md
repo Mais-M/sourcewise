@@ -18,6 +18,13 @@ If a claim cannot be supported by a precise and verifiable source, it should not
 A public prototype demo of SourceWise is available through the project website link.
 
 SourceWise is a methodological prototype. It does not generate factual company intelligence without sources. When no evidence is provided, it produces a research plan, an empty Evidence Register, and a Requires Verification section.
+## Demo Output
+
+A sample methodological output is available here:
+
+[sourcewise-methodological-demo.html](./sourcewise-methodological-demo.html)
+
+This demo shows the intended behavior when no company-specific sources are provided: SourceWise does not generate unsupported factual claims. Instead, it produces a research plan, an empty Evidence Register, and a Requires Verification section.
 
 ---
 
